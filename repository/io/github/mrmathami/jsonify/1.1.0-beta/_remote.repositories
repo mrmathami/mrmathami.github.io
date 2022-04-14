@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 14 12:14:21 ICT 2022
+jsonify-1.1.0-beta-sources.jar>=
+jsonify-1.1.0-beta.pom>=
+jsonify-1.1.0-beta.jar>=
